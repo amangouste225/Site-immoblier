@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "gopherblack";
+  src: url("/assets/css/fonts/gopher-black.woff2") format("woff2"),
+    url("/assets/css/fonts/gopher-black.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "gopherregular";
+  src: url("/assets/css/fonts/gopher-regular.woff2") format("woff2"),
+    url("/assets/css/fonts/gopher-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "gophermedium";
+  src: url("/assets/css/fonts/gopher-medium.woff2") format("woff2"),
+    url("/assets/css/fonts/gopher-medium.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
